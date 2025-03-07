@@ -1,12 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolio on Yuan Xiao</title><link>https://onesoilY.github.io/yuan/portfolio/</link><description>Recent content in Portfolio on Yuan Xiao</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://onesoilY.github.io/yuan/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Animation Production</title><link>https://onesoilY.github.io/yuan/portfolio/animation/</link><pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate><guid>https://onesoilY.github.io/yuan/portfolio/animation/</guid><description>Project Overview Role: Designer &amp;amp; Animator
-Built With:
-After Effect (Motion Graphics) Premiere Pro (Video Editing) Showcase:
-Project Description Kinetic Typography Animator – Music Video for Avril Lavigne’s "I’m with You" In this project, I designed and animated a kinetic typography sequence for Avril Lavigne’s "I’m with You" using Adobe After Effects, focusing on expressive text movements synchronized with the music’s rhythm and emotion.
-Design and Animation Approach: Applied core animation principles, including Squash and Stretch, Anticipation, Follow-through, Slow in/Slow out (easing), and Secondary Action, ensuring fluid, natural motion and visually compelling transitions.</description></item><item><title>Set Sail Again</title><link>https://onesoilY.github.io/yuan/portfolio/3d-animation/</link><pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate><guid>https://onesoilY.github.io/yuan/portfolio/3d-animation/</guid><description>Project Overview Role: 3D Modeller &amp;amp; Animator
-Collaborators:
-Zekun Wang: Animator &amp;amp; 3D Modeller Zobia Khalid: Wave Maker &amp;amp; Designer Yongcheng Zhang: Script &amp;amp; Video Editor Built With:
-Maya (3D Modeling &amp;amp; Animation) Premiere Pro (Video Editing) Showcase:
-Project Description Bringing Set Sail Again to Life I played a key role in designing and optimizing the 3D assets and animation for Set Sail Again, ensuring a visually compelling and emotionally resonant experience.</description></item><item><title>Website Design and Develop</title><link>https://onesoilY.github.io/yuan/portfolio/website/</link><pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate><guid>https://onesoilY.github.io/yuan/portfolio/website/</guid><description>Project Overview Role: Designer &amp;amp; Developer
-Built With:
-Figma (Prototyping) Visual Studio Code HTML &amp;amp; CSS (Programming) Showcase:
-Your browser does not support the video tag. Project Description A Seamless and Engaging Experience I contributed to designing and optimizing the SFU Climate Community website, ensuring a smooth, visually cohesive, and user-friendly experience across both desktop and mobile platforms. The homepage introduces the community’s mission and provides an intuitive browsing flow, making it easy for users to explore content efficiently.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Yuan Xiao</title>
+    <link>http://localhost:1313/yuan/portfolio/</link>
+    <description>Recent content in Portfolio on Yuan Xiao</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/yuan/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D Animation Production</title>
+      <link>http://localhost:1313/yuan/portfolio/3d-animation/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/yuan/portfolio/3d-animation/</guid>
+      <description>Project Overview Project Goal:&#xA;To create a visually compelling 3D animation that immerses the audience in a story of adventure. Through stylized characters and expressive environments, the project aims to evoke emotions and showcase advanced 3D modeling and animation techniques. My Role: 3D Modeller &amp;amp; Animator&#xA;Collaborators:&#xA;Zekun Wang: Animator &amp;amp; 3D Modeller Zobia Khalid: Wave Maker &amp;amp; Designer Yongcheng Zhang: Script &amp;amp; Video Editor Built With:&#xA;Maya (3D Modeling &amp;amp; Animation) Premiere Pro (Video Editing) Work Time: 2 Months (October 2024 - December 2024)</description>
+    </item>
+    <item>
+      <title>Animation Production</title>
+      <link>http://localhost:1313/yuan/portfolio/animation/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/yuan/portfolio/animation/</guid>
+      <description>Project Overview Project Goal:&#xA;To create an engaging kinetic typography animation for &amp;ldquo;I’m with You&amp;rdquo; by Avril Lavigne. Synchronizing expressive text movements with the song’s rhythm and emotion while applying core animation principles to enhance visual storytelling. My Role: Designer &amp;amp; Animator&#xA;Built With:&#xA;After Effect (Motion Graphics) Premiere Pro (Video Editing) Work Time: 1 Month (July 2023 - August 2023)&#xA;Showcase:&#xA;Project Description Kinetic Typography Animator – Music Video for Avril Lavigne’s &#34;</description>
+    </item>
+    <item>
+      <title>Website Design and Develop</title>
+      <link>http://localhost:1313/yuan/portfolio/website/</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/yuan/portfolio/website/</guid>
+      <description>Project Overview Project Goal:&#xA;To design and develop a visually cohesive, user-friendly, and responsive website for SFU Climate Community Ensuring smooth navigation, accessibility, and an engaging browsing experience across desktop and mobile platforms. My Role: Designer &amp;amp; Developer&#xA;Built With:&#xA;Figma (Prototyping) Visual Studio Code HTML &amp;amp; CSS (Programming) Work Time: 2 Months (February 2024 - April 2024)&#xA;Showcase:&#xA;Your browser does not support the video tag. Project Description A Seamless and Engaging Experience I designed and developed the SFU Climate Community website, creating a visually cohesive, user-friendly, and responsive experience across desktop and mobile platforms.</description>
+    </item>
+  </channel>
+</rss>
