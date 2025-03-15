@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<script src="/yuan/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=yuan/livereload" data-no-instant defer></script><style>
+    html {
+        height: 100vh;
+    }
+    body {
+        min-height: 100vh;
+        display: grid;
+        grid-template-rows: 1fr auto;
+    }
+    .footer {
+        grid-row-start: 2;
+        grid-row-end: 3;
+    }
+</style>
+
+<html lang="en-us"><head>
+  <meta charset="utf-8">
+  <title>Yuan Xiao</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="description" property="og:description" content="Script-adapted Board Game">
+  <meta name="image" property="og:image" content="/">
+  <meta name="author" content="Yuan Xiao">
+  <meta name="generator" content="Hugo 0.131.0">
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="../../css/style.min.css" integrity="" media="screen">
+  
+  <link rel="stylesheet" href="../../css/syntax.min.css" integrity="" media="screen">
+
+  <script src="https://cdn.jsdelivr.net/npm/mailgo@0.9.14/dist/mailgo.min.js" defer></script>
+
+  <!--Favicon-->
+  <link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png">
+  <link rel="manifest" href="../../site.webmanifest">
+
+</head>
+<body class="portfolio">
+    <div class="wrapper"><div uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; bottom: #transparent-sticky-navbar">
+    <nav class="uk-navbar-container uk-margin" uk-navbar="mode: click;" style="padding-right: 3rem">
+        <div class="uk-navbar-right">
+            <ul class="uk-navbar-nav uk-visible@s">
+                
+                <li><a style="font-size: 18px; text-transform: none" href="../../"> Home
+                        </a></li>
+
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li><a style="font-size: 18px; text-transform: none" href="../../about">About</a></li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li class="uk-active"><a style="font-size: 18px; text-transform:none"
+                        href="../../portfolio">Portfolio</a></li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li><a style="font-size: 18px; text-transform: none" href="../../contact">Contact</a></li>
+                
+                
+            </ul>
+
+            <a class="uk-navbar-toggle uk-hidden@s" uk-toggle="target: #sidenav" uk-navbar-toggle-icon href="#"></a>
+
+        </div>
+    </nav>
+</div>
+
+<div id="sidenav" uk-offcanvas="overlay: true">
+    <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+
+        <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+            
+            <li><a style="font-size: 18px" href="http://localhost:1313/yuan/"> Home </a></li>
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li><a style="font-size: 18px" href="../../about">About</a></li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li class="uk-active"><a style="font-size: 18px" href="../../portfolio">Portfolio</a></li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li><a style="font-size: 18px" href="../../contact">Contact</a></li>
+            
+            
+        </ul>
+
+    </div>
+</div>
+
+  
+
+
+
+
+
+<style>
+  p {
+    margin: 0
+  }
+
+  .people-wrap {
+    display: inline-flex;
+    margin-top: 10px;
+  }
+
+  .people-image {
+    display: block;
+    border-radius: 50%;
+     
+  }
+
+  .people {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .name {
+    margin: auto;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #000;
+    font-family: Roboto, sans-serif;
+    line-height: 1.2;
+    margin-top: 2rem;
+  }
+
+  .content img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:30px;
+  }
+
+  p { margin-bottom: 1em; }
+
+  body p:last-child { margin-bottom: 0em; }
+
+  img.skills{
+    height: 80px;
+  }
+
+  @media only screen and (min-width: 960px) {
+    .content img{max-width:60vw; max-height:60vh}
+
+  .content img{
+      max-width:60vw;
+      max-height:60vh
+  }
+  }
+  .content{
+      width: 90vw;
+      max-width: 1200px
+  }
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+</style>
+
+
+<section>
+  <div class="uk-container uk-margin-large-bottom uk-margin-medium-top">
+    <h1 class="uk-text-center uk-heading-medium">Redemption</h1>
+    <p class="uk-text-center uk-text-lead">Script-adapted Board Game</p>
+    <p class="uk-text-center">Published on Mar 14, 2025</p>
+    <p class="uk-text-center">Estimated reading time: 5 minutes</p>
+    
+
+    <div class="uk-child-width-1-4@m uk-child-width-1-2@s uk-text-center uk-flex-center uk-grid-large uk-margin-small-top" uk-grid>
+      
+
+    
+
+
+    
+    </div>
+
+    
+
+    <hr class="full-width">
+    
+
+    <div class="content">
+      <h2 id="project-overview">Project Overview</h2>
+<div style="font-size: 1.4em; color: #333; line-height: 1.8;">
+<span style="display: block; margin: 50px;">
+<p><strong>Project Goal:</strong></p>
+<ul>
+<li>Transform a self-written post-apocalyptic script titled “Redemption” into a highly interactive multiplayer board game that preserves the script’s tense atmosphere and internal conflicts.</li>
+<li>By integrating card mechanics, map design, hidden roles, and cooperative gameplay, the project enhances players’ immersion and emotional engagement.</li>
+</ul>
+</span>
+<span style="display: block; margin: 50px;">
+<p><strong>My Role:</strong> Game Designer &amp; Video Editor</p>
+</span>
+<span style="display: block; margin: 50px;">
+<p><strong>Collaborators:</strong></p>
+<ul>
+<li>Jiawei Shi – Document Organizer</li>
+<li>Jianting Liang – Card Designer &amp; Video Editor</li>
+<li>Katrina Lai – Character &amp; Map Designer</li>
+</ul>
+</span>
+<span style="display: block; margin: 50px;">
+<p><strong>Built With:</strong></p>
+<ul>
+<li>Figma (Collaborative Design &amp; Management)</li>
+<li>Premiere Pro (Video Editing)</li>
+<li>Hand-Drawing &amp; Procreate (Initial concept sketches and character artwork)</li>
+<li>Tabletop Simulator (Testing &amp; Recording)</li>
+</ul>
+</span>
+<span style="display: block; margin: 50px;">
+<p><strong>Work Time:</strong> 2 Months (October 2024 - December 2024)</p>
+</span>
+<span style="display: block; margin: 50px;">
+<p><strong>Showcase:</strong></p>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/I2SIlt07Vvk" frameborder="0" allowfullscreen></iframe>
+</div>
+</span>
+</div>
+<hr style="margin: 60px 0; border-top: 2px solid #bbb;">
+<h2 id="project-description">Project Description</h2>
+<div style="margin: 3em;">
+    <h3 style="font-size: 1.4em; color: #333; font-weight: bold;">Reimagining <em>Redemption</em> as a Board Game</h3>
+    <p style="font-size: 1.2em; color: #333; font-weight: 400; margin-top: 10px; text-align: justify;"><em>Redemption</em> was originally a post-apocalyptic script that follows Oliver’s struggle after a viral outbreak, depicting scarce resources, team trust issues, and harsh survival conditions. When adapting it into a board game, we focused on the following core elements:</p>
+        <ul class="timeline-bullets">
+            <li>Betrayal vs. Teamwork
+                <p>A hidden traitor is a major tension point in the script, so our game features a hidden-role system that forces players to question each other’s motives, creating a tense, uncertain atmosphere.</p>   
+            </li>
+            <li>Resources & Risks
+                <p>The original story highlights resource scarcity and high-stakes environments. We translated this into a “Single Phase” and “Collective Phase,” with the map divided into the City, Creek, and Coast—each with unique risks and rewards.</p>
+            </li>
+            <li>Nightfall & Dawnlight
+                <p>Taking actions at Night increases the danger posed by the monster “FEAR” and requires players to reveal their cards. The Daytime option is safer, but yields fewer resources. This mechanic mirrors the script’s tension surrounding day and night in the post-apocalyptic setting.</p>
+            </li>
+        </ul>
+</div>
+<!-- 轮播图 -->
+<div class="carousel">
+    <button class="prev">&#10094;</button>
+    <div class="carousel-wrapper">
+        <div class="carousel-inner">
+            <div class="carousel-item"><img src="https://res.cloudinary.com/dgd0byig8/image/upload/v1742012470/product_fnyleh.png" alt="Screenshot 1"></div>
+            <div class="carousel-item"><img src="https://res.cloudinary.com/dgd0byig8/image/upload/v1742008202/Character_ac95x9.jpg" alt="Screenshot 2"></div>
+            <div class="carousel-item"><img src="https://res.cloudinary.com/dgd0byig8/image/upload/v1742008203/ActionCard_uc6box.jpg" alt="Screenshot 3"></div>
+            <div class="carousel-item"><img src="https://res.cloudinary.com/dgd0byig8/image/upload/v1742008202/EventCard_akr66p.jpg" alt="Screenshot 4"></div>
+        </div>
+    </div>
+    <button class="next">&#10095;</button>
+    <p style="font-style: italic; text-align: center; margin: 0 auto 50px;">
+        A collection of products from the board game
+    </p>
+</div>
+<!-- CSS 样式 -->
+<style>
+    /* 文字列表（点状描述） */
+    .timeline-bullets {
+        font-size: 1.2em;
+        color: #333;
+        margin-top: 15px;
+        padding-left: 20px;
+        
+    }
+
+    .timeline-bullets li {
+        margin-bottom: 5px;
+    }
+    /* 轮播图主容器 */
+    .carousel {
+        position: relative;
+        max-width: 900px;
+        margin: 50px auto;
+        overflow: hidden;
+    }
+    /* 轮播图内容包裹层 */
+    .carousel-wrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    /* 轮播图滑动区域 */
+    .carousel-inner {
+        display: flex;
+        width: 100%; /* ✅ 确保正确对齐 */
+        transition: transform 0.5s ease-in-out;
+    }
+    /* 单个幻灯片 */
+    .carousel-item {
+        flex: 0 0 100%; /* 确保每个项目占据整个视图 */
+    }
+    /* 轮播图中的图片 */
+    .carousel-item img {
+        max-width: 100%;
+        display: block; /* ✅ 避免底部间隙 */
+    }
+    .prev, .next {
+        position: absolute;
+        top: 40%;
+        transform: translateY(-50%);
+        background-color: rgba(0, 0, 0, 0.5);
+        color: white;
+        border: none;
+        padding: 10px 15px;
+        cursor: pointer;
+        font-size: 20px;
+        border-radius: 5px;
+        z-index: 10;
+    }
+    .prev { left: 10px; }
+    .next { right: 10px; }
+    .prev:hover, .next:hover {
+        background-color: rgba(0, 0, 0, 0.8);
+    }
+</style>
+<!-- JavaScript -->
+<script>
+    let currentIndex = 0;
+    const carouselInner = document.querySelector(".carousel-inner");
+    const totalSlides = document.querySelectorAll(".carousel-item").length;
+
+    function moveSlide(direction) {
+        currentIndex += direction;
+
+        if (currentIndex < 0) {
+            currentIndex = totalSlides - 1;
+        } else if (currentIndex >= totalSlides) {
+            currentIndex = 0;
+        }
+
+        carouselInner.style.transform = `translateX(-${currentIndex * 100}%)`;
+    }
+
+    document.querySelector(".prev").addEventListener("click", () => moveSlide(-1));
+    document.querySelector(".next").addEventListener("click", () => moveSlide(1));
+</script>
+<hr style="margin: 60px 0; border-top: 2px solid #bbb;">
+<h2 id="design-process">Design Process</h2>
+<div class="timeline-container">
+    <!-- Event Cards -->
+    <div class="timeline-item">
+        <div class="timeline-marker"><span>1</span></div>
+        <div class="timeline-content">
+            <h3 class="timeline-title">Event Cards</h3>
+            <div style="max-width: 70%; margin-left: 0px;">
+                <img src="https://res.cloudinary.com/dgd0byig8/image/upload/v1742011421/Frame_43_ji0kf7.png" alt="final event cards 1" style="max-width: 100%;">
+                <img src="https://res.cloudinary.com/dgd0byig8/image/upload/v1742011045/Frame_44_syclkx.png" alt="final event cards 2" style="max-width: 100%;">
+                <p style="font-style: italic; margin: -20px 0 40px;">Venturing into a Post-Apocalyptic Realm: Event Cards-Single Route Cards above and Collective Route Cards below</p>
+            </div>
+            <p style="font-size: 1.2em; color: #333; font-weight: 400; text-align: justify; margin: -20px 0 60px;">These event cards form the backbone of the game's tension and unpredictability. Each card introduces a unique scenario—ranging from resource finds to ambushes, mutated creatures, or sabotage attempts—that compels players to adapt their strategies on the fly. Designed with distinct color themes to indicate varying degrees of danger and different times of day. <br><br>I was responsible for crafting and fine-tuning the narrative structure behind each event, ensuring it not only fits the overall storyline but also adds depth to the game’s mechanics. From ideating card concepts to writing event descriptions, I worked to embed strategic challenges that reinforce the game’s post-apocalyptic atmosphere. Additionally, I oversaw the design and testing process, balancing the cards’ effects, ultimately heightening player engagement and emotional investment.</p>
+        </div>
+    </div>
+    <!-- Character Cards -->
+    <div class="timeline-item">
+        <div class="timeline-marker"><span>2</span></div>
+        <div class="timeline-content">
+            <h3 class="timeline-title">Character Cards</h3>
+            <div style="max-width: 70%; margin-left: 0;">
+                <img src="https://res.cloudinary.com/dgd0byig8/image/upload/v1742011809/Frame_43_1_f4ebuo.png" alt="character cards" style="max-width: 100%;">
+                <p style="font-style: italic; margin: -20px 0 40px;">Character Cards: Defining Roles, Trust, and Betrayal</p>
+            </div>
+            <p style="font-size: 1.2em; color: #333; font-weight: 400; text-align: justify; margin: -20px 0 60px;">Each character card represents a key role in the game, shaping player interactions and survival strategies. From the deceptive Traitor to the resilient Survivors, and the central figure Oliver, these cards influence combat abilities, alliances, and betrayals. The character illustrations were created by Katrina, while the card frames were designed by Jianting.<br><br>I developed the their traits and abilities aligned with the game’s mechanics and narrative. I also refined role balance through playtesting, making key character impactful in driving strategy and storytelling.</p>
+        </div>
+    </div>
+    <!-- Instruction Book -->
+    <div class="timeline-item">
+        <div class="timeline-marker"><span>3</span></div>
+        <div class="timeline-content">
+            <h3 class="timeline-title">Instruction Book</h3>
+            <div style="max-width: 70%; margin-left: -10px;">
+                <img src="https://res.cloudinary.com/dgd0byig8/image/upload/v1742007255/inside_xnhcuj.png" alt="instruction book 1" style="max-width: 100%;">
+                <img src="https://res.cloudinary.com/dgd0byig8/image/upload/v1742007255/inside-1_njepfu.png" alt="instruction book 2" style="max-width: 100%;">
+                <p style="font-style: italic; margin: -20px 0 40px 10px;">Comprehensive Game Guide: Rules, Strategy, and Survival</p>
+            </div>
+            <p style="font-size: 1.2em; color: #333; font-weight: 400; text-align: justify; margin: -20px 0 60px;">This instruction book provides players with an in-depth understanding of game mechanics, from character roles and action cards to survival strategies and victory conditions. The layout is designed by Jianting, it ensures clarity in navigating the Single Phase and Collective Phase, emphasizing decision-making under pressure, hidden identities, and resource management. The guide also introduces the FEAR Mechanic, reinforcing tension through movement rules that heighten player urgency. <br><br>I assisted in structuring and refining the game rules, ensuring they aligned with the narrative. Additionally, I helped streamline explanations for accessibility, making complex interactions more intuitive for players.</p>
+        </div>
+    </div>
+    <!-- Map -->
+    <div class="timeline-item">
+        <div class="timeline-marker"><span>4</span></div>
+        <div class="timeline-content">
+            <h3 class="timeline-title">Map</h3>
+            <div style="max-width: 70%; margin-left: 0;">
+                <img src="https://res.cloudinary.com/dgd0byig8/image/upload/v1742007256/map_nnhxsw.png" alt="character cards" style="max-width: 100%;">
+                <p style="font-style: italic; margin: -20px 0 40px;">Post-Apocalyptic Game Map: A Journey Through Risk and Survival</p>
+            </div>
+            <p style="font-size: 1.2em; color: #333; font-weight: 400; text-align: justify; margin: -20px 0 60px;">Illustrated by Katrina, brings to life a world of scarcity and danger, where players must navigate three key zones—Abandoned City, Silent Creek, and Barren Coast—each with distinct risks and resources. Throughout the map, 12 campsites serve as critical decision points, with bonfires appearing every two camps to allow players to attack suspected traitors. Adding to the intensity, FEAR relentlessly pursues players, forcing them to strategize their movements while balancing survival and trust. <br><br>I designed the level mechanics, structuring how players move, interact with campsites, trigger bonfire attacks, and evade FEAR’s pursuit. My focus was on balancing risk and reward, ensuring every movement carried weight, while Katrina brought the world to life through her artwork.</p>
+        </div>
+    </div>
+</div>
+<style>
+    .video-container {
+        max-width: 900px;
+        aspect-ratio: 16 / 9; /* 让视频保持16:9比例 */
+    }
+
+    .video-container iframe {
+        width: 100%;
+        height: 100%;
+    }
+
+    /* 时间轴整体左对齐 */
+    .timeline-container {
+        position: relative;
+        margin-left: 0;
+        padding-left: 50px;
+        display: flex;
+        flex-direction: column;
+        gap: 60px;
+    }
+
+    /* 时间轴上的每个项目 */
+    .timeline-item {
+        display: flex;
+        align-items: flex-start;
+        position: relative;
+        opacity: 0;
+        transform: translateY(100px);
+        transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+    }
+
+    /* 每次进入视口时触发动画 */
+    .timeline-item.visible {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    /* 时间轴线 */
+    .timeline-container::before {
+        content: "";
+        position: absolute;
+        left: 20px;
+        top: 0;
+        width: 4px;
+        height: 100%;
+        background: linear-gradient(to bottom, #1AB69A, #66CDAA);
+        border-radius: 2px;
+    }
+
+    /* 数字编号放在时间轴上，并添加一根连接线 */
+    .timeline-marker {
+        position: absolute;
+        left: -43px; /* 让数字紧贴时间轴 */
+        background: #1AB69A;
+        color: white;
+        font-size: 1.2em;
+        font-weight: bold;
+        width: 30px;
+        height: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        z-index: 2;
+        opacity: 0;
+        transform: translateY(100px);
+        transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+        position: relative;
+    }
+
+    /* 连接线 */
+    .timeline-marker::after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 100%;
+        width: 400px; /* 线条长度，可调整 */
+        height: 2px;
+        background-color: #1AB69A;
+    }
+
+    /* 数字和内容同步动画 */
+    .timeline-item.visible .timeline-marker {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    /* 右侧的内容框 */
+    .timeline-content {
+        width: 100%;
+    }
+
+    /* 标题样式 */
+    .timeline-title {
+        font-size: 1.4em;
+        color: #333;
+        font-weight: bold;
+        margin: 50px 0 20px;
+    }
+
+    .media-container {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px; 
+}
+
+</style>
+<script>
+    // 监听滚动，触发时间轴动画
+    function revealTimelineItems() {
+        const items = document.querySelectorAll(".timeline-item");
+        const triggerBottom = window.innerHeight * 0.85;
+
+        items.forEach(item => {
+            const itemTop = item.getBoundingClientRect().top;
+            if (itemTop < triggerBottom) {
+                item.classList.add("visible");
+            }
+        });
+    }
+
+    // 监听页面滚动事件
+    window.addEventListener("scroll", revealTimelineItems);
+    revealTimelineItems(); // 初始检查
+</script>
+<hr style="margin: 60px 0; border-top: 2px solid #bbb;">
+<h2 id="takeaways">Takeaways</h2>
+<p style="font-size: 1.2em; color: #333; font-weight: 400; text-align: justify; margin: 10px 0 50px;">Through this project, I honed my ability to write compelling scripts and seamlessly adapt narrative elements into engaging gameplay experiences. My skillset expanded to include level design and the construction of immersive worlds, ensuring that the storyline and mechanics worked in harmony to captivate and challenge players. </p>
+<p style="font-size: 1.2em; color: #333; font-weight: 400; text-align: justify; margin: 10px 0 50px;">Additionally, I developed a thorough understanding of video production, leveraging various filming techniques and camera angles to bring key moments to life—both in gameplay demonstrations and promotional material. By merging narrative design, game design, and video editing expertise, I am able to create cohesive, dynamic projects that resonate with audiences and elevate the overall experience.</p>
+
+    </div>
+  </div>
+  </div>
+</section>
+
+
+
+    </div>
+<footer class="footer">
+  <div class="uk-container">
+
+    
+    <div class="uk-text-center uk-margin-medium-bottom">
+      <ul class="uk-list uk-list-divider">
+        <li><a href="../../">Home</a></li>
+        <li><a href="../../about">About</a></li>
+        <li><a href="../../portfolio">Portfolio</a></li>
+        <li><a href="../../contact">Contact</a></li>
+        
+      </ul>
+    </div>
+
+
+    
+    <div class="uk-text-center uk-margin-medium-bottom">
+      
+      <p>Disclaimer: All media used in this project were provided during the courses and are for educational purposes only.</p>
+    </div>
+
+  </div>
+</footer>
+
+<!-- JS Plugins -->
+
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
+</body>
+</html>

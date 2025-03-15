@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Yuan Xiao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/yuan/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game</title>
+      <link>http://localhost:1313/yuan/categories/game/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/yuan/categories/game/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Animation</title>
       <link>http://localhost:1313/yuan/categories/animation/</link>
@@ -16,10 +23,10 @@
       <description></description>
     </item>
     <item>
-      <title>Web</title>
-      <link>http://localhost:1313/yuan/categories/web/</link>
+      <title>Website</title>
+      <link>http://localhost:1313/yuan/categories/website/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/yuan/categories/web/</guid>
+      <guid>http://localhost:1313/yuan/categories/website/</guid>
       <description></description>
     </item>
   </channel>

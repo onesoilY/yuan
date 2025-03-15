@@ -6,14 +6,21 @@
     <description>Recent content on Yuan Xiao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/yuan/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>VR Game</title>
+      <link>http://localhost:1313/yuan/portfolio/vr_game/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/yuan/portfolio/vr_game/</guid>
+      <description>Project Overview Project Goal:&#xA;To create a deeply immersive VR experience that explores themes of loss, healing, and connection. Through a combination of realistic 3D environments, atmospheric storytelling, and interactive mechanics, the project aims to evoke emotions and engage players in a personal journey of transformation. My Role: 3D Modeler &amp;amp; Unity Developer&#xA;Collaborators:&#xA;Jayson Van Tram – Lead Programmer &amp;amp; Developer Man Ying Angela Lee – Visual Designer Built With:</description>
+    </item>
+    <item>
       <title>3D Animation Production</title>
-      <link>http://localhost:1313/yuan/portfolio/3d-animation/</link>
+      <link>http://localhost:1313/yuan/portfolio/3d_animation/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/yuan/portfolio/3d-animation/</guid>
-      <description>Project Overview Project Goal:&#xA;To create a visually compelling 3D animation that immerses the audience in a story of adventure. Through stylized characters and expressive environments, the project aims to evoke emotions and showcase advanced 3D modeling and animation techniques. My Role: 3D Modeller &amp;amp; Animator&#xA;Collaborators:&#xA;Zekun Wang: Animator &amp;amp; 3D Modeller Zobia Khalid: Wave Maker &amp;amp; Designer Yongcheng Zhang: Script &amp;amp; Video Editor Built With:&#xA;Maya (3D Modeling &amp;amp; Animation) Premiere Pro (Video Editing) Work Time: 2 Months (October 2024 - December 2024)</description>
+      <guid>http://localhost:1313/yuan/portfolio/3d_animation/</guid>
+      <description>Project Overview Project Goal:&#xA;To create a visually compelling 3D animation that immerses the audience in a story of adventure. Through stylized characters and expressive environments, the project aims to evoke emotions and showcase advanced 3D modeling and animation techniques. My Role: 3D Modeller &amp;amp; Animator&#xA;Collaborators:&#xA;Zekun Wang – Animator &amp;amp; 3D Modeller Zobia Khalid – Wave Maker &amp;amp; Designer Yongcheng Zhang – Script &amp;amp; Video Editor Built With:</description>
     </item>
     <item>
       <title>Animation Production</title>
@@ -27,7 +34,7 @@
       <link>http://localhost:1313/yuan/portfolio/website/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/yuan/portfolio/website/</guid>
-      <description>Project Overview Project Goal:&#xA;To design and develop a visually cohesive, user-friendly, and responsive website for SFU Climate Community Ensuring smooth navigation, accessibility, and an engaging browsing experience across desktop and mobile platforms. My Role: Designer &amp;amp; Developer&#xA;Built With:&#xA;Figma (Prototyping) Visual Studio Code HTML &amp;amp; CSS (Programming) Work Time: 2 Months (February 2024 - April 2024)&#xA;Showcase:&#xA;Your browser does not support the video tag. Project Description A Seamless and Engaging Experience I designed and developed the SFU Climate Community website, creating a visually cohesive, user-friendly, and responsive experience across desktop and mobile platforms.</description>
+      <description>Project Overview Project Goal:&#xA;To design and develop a visually cohesive, user-friendly, and responsive website for SFU Climate Community. Ensuring smooth navigation, accessibility, and an engaging browsing experience across desktop and mobile platforms. My Role: Designer &amp;amp; Developer&#xA;Built With:&#xA;Figma (Prototyping) Visual Studio Code HTML &amp;amp; CSS (Programming) Work Time: 2 Months (February 2024 - April 2024)&#xA;Showcase:&#xA;Your browser does not support the video tag. Project Description A Seamless and Engaging Experience I designed and developed the SFU Climate Community website, creating a visually cohesive, user-friendly, and responsive experience across desktop and mobile platforms.</description>
     </item>
     <item>
       <title>Resume</title>

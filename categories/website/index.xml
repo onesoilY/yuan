@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web on Yuan Xiao</title>
-    <link>http://localhost:1313/yuan/categories/web/</link>
-    <description>Recent content in Web on Yuan Xiao</description>
+    <title>Website on Yuan Xiao</title>
+    <link>http://localhost:1313/yuan/categories/website/</link>
+    <description>Recent content in Website on Yuan Xiao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/yuan/categories/web/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/yuan/categories/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Website Design and Develop</title>
       <link>http://localhost:1313/yuan/portfolio/website/</link>

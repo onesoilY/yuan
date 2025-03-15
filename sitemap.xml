@@ -2,7 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/yuan/portfolio/3d-animation/</loc>
+    <loc>http://localhost:1313/yuan/categories/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/yuan/categories/game/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/yuan/portfolio/vr_game/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/yuan/</loc>
+    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/yuan/portfolio/3d_animation/</loc>
     <lastmod>2025-01-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/yuan/categories/animation/</loc>
@@ -11,13 +23,7 @@
     <loc>http://localhost:1313/yuan/portfolio/animation/</loc>
     <lastmod>2025-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/yuan/categories/</loc>
-    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/yuan/</loc>
-    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/yuan/categories/web/</loc>
+    <loc>http://localhost:1313/yuan/categories/website/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/yuan/portfolio/website/</loc>

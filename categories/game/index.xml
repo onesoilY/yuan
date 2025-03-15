@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game on Yuan Xiao</title>
+    <link>http://localhost:1313/yuan/categories/game/</link>
+    <description>Recent content in Game on Yuan Xiao</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/yuan/categories/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VR Game</title>
+      <link>http://localhost:1313/yuan/portfolio/vr_game/</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/yuan/portfolio/vr_game/</guid>
+      <description>Project Overview Project Goal:&#xA;To create a deeply immersive VR experience that explores themes of loss, healing, and connection. Through a combination of realistic 3D environments, atmospheric storytelling, and interactive mechanics, the project aims to evoke emotions and engage players in a personal journey of transformation. My Role: 3D Modeler &amp;amp; Unity Developer&#xA;Collaborators:&#xA;Jayson Van Tram – Lead Programmer &amp;amp; Developer Man Ying Angela Lee – Visual Designer Built With:</description>
+    </item>
+  </channel>
+</rss>
