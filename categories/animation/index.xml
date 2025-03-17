@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animation on Yuan Xiao</title>
-    <link>http://localhost:1313/yuan/categories/animation/</link>
+    <link>https://onesoilY.github.io/yuan/categories/animation/</link>
     <description>Recent content in Animation on Yuan Xiao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/yuan/categories/animation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://onesoilY.github.io/yuan/categories/animation/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>3D Animation Production</title>
-      <link>http://localhost:1313/yuan/portfolio/3d_animation/</link>
+      <title>Kinetic Typography</title>
+      <link>https://onesoilY.github.io/yuan/portfolio/avril-lavignes-song/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/yuan/portfolio/3d_animation/</guid>
-      <description>Project Overview Project Goal:&#xA;To create a visually compelling 3D animation that immerses the audience in a story of adventure. Through stylized characters and expressive environments, the project aims to evoke emotions and showcase advanced 3D modeling and animation techniques. My Role: 3D Modeller &amp;amp; Animator&#xA;Collaborators:&#xA;Zekun Wang – Animator &amp;amp; 3D Modeller Zobia Khalid – Wave Maker &amp;amp; Designer Yongcheng Zhang – Script &amp;amp; Video Editor Built With:</description>
+      <guid>https://onesoilY.github.io/yuan/portfolio/avril-lavignes-song/</guid>
+      <description>Project Overview Project Goal:&#xA;To create an engaging kinetic typography animation for &amp;ldquo;I’m with You&amp;rdquo; by Avril Lavigne. Synchronizing expressive text movements with the song’s rhythm and emotion while applying core animation principles to enhance visual storytelling. My Role: Designer &amp;amp; Animator&#xA;Built With:&#xA;After Effect (motion graphics) Premiere Pro (video editing) Work Time: 1 Month (July 2023 - August 2023)&#xA;Showcase:&#xA;Project Description Kinetic Typography Animator – Music Video for Avril Lavigne’s &#34;</description>
     </item>
     <item>
-      <title>Animation Production</title>
-      <link>http://localhost:1313/yuan/portfolio/animation/</link>
+      <title>Set Sail Again</title>
+      <link>https://onesoilY.github.io/yuan/portfolio/set-sail-again/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/yuan/portfolio/animation/</guid>
-      <description>Project Overview Project Goal:&#xA;To create an engaging kinetic typography animation for &amp;ldquo;I’m with You&amp;rdquo; by Avril Lavigne. Synchronizing expressive text movements with the song’s rhythm and emotion while applying core animation principles to enhance visual storytelling. My Role: Designer &amp;amp; Animator&#xA;Built With:&#xA;After Effect (Motion Graphics) Premiere Pro (Video Editing) Work Time: 1 Month (July 2023 - August 2023)&#xA;Showcase:&#xA;Project Description Kinetic Typography Animator – Music Video for Avril Lavigne’s &#34;</description>
+      <guid>https://onesoilY.github.io/yuan/portfolio/set-sail-again/</guid>
+      <description>Project Overview Project Goal:&#xA;To create a visually compelling 3D animation that immerses the audience in a story of adventure. Through stylized characters and expressive environments, the project aims to evoke emotions and showcase advanced 3D modeling and animation techniques. My Role: 3D Modeller &amp;amp; Animator&#xA;Collaborators:&#xA;Zekun Wang – Animator &amp;amp; 3D Modeller Zobia Khalid – Wave Maker &amp;amp; Designer Yongcheng Zhang – Script &amp;amp; Video Editor Built With:</description>
     </item>
   </channel>
 </rss>

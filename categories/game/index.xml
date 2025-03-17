@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game on Yuan Xiao</title>
-    <link>http://localhost:1313/yuan/categories/game/</link>
+    <link>https://onesoilY.github.io/yuan/categories/game/</link>
     <description>Recent content in Game on Yuan Xiao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/yuan/categories/game/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://onesoilY.github.io/yuan/categories/game/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>VR Game</title>
-      <link>http://localhost:1313/yuan/portfolio/vr_game/</link>
+      <title>Redemption</title>
+      <link>https://onesoilY.github.io/yuan/portfolio/redemption/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://onesoilY.github.io/yuan/portfolio/redemption/</guid>
+      <description>Project Overview Project Goal:&#xA;Transform a self-written post-apocalyptic script titled “Redemption” into a highly interactive multiplayer board game that preserves the script’s tense atmosphere and internal conflicts. By integrating card mechanics, map design, hidden roles, and cooperative gameplay, the project enhances players’ immersion and emotional engagement. My Role: Game Designer &amp;amp; Video Editor&#xA;Collaborators:&#xA;Jiawei Shi – Document Organizer Jianting Liang – Card Designer &amp;amp; Video Editor Katrina Lai – Character &amp;amp; Map Designer Built With:</description>
+    </item>
+    <item>
+      <title>Beyond the Horizon</title>
+      <link>https://onesoilY.github.io/yuan/portfolio/beyond-the-horizon/</link>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/yuan/portfolio/vr_game/</guid>
-      <description>Project Overview Project Goal:&#xA;To create a deeply immersive VR experience that explores themes of loss, healing, and connection. Through a combination of realistic 3D environments, atmospheric storytelling, and interactive mechanics, the project aims to evoke emotions and engage players in a personal journey of transformation. My Role: 3D Modeler &amp;amp; Unity Developer&#xA;Collaborators:&#xA;Jayson Van Tram – Lead Programmer &amp;amp; Developer Man Ying Angela Lee – Visual Designer Built With:</description>
+      <guid>https://onesoilY.github.io/yuan/portfolio/beyond-the-horizon/</guid>
+      <description>Project Overview Project Goal:&#xA;To create a deeply immersive VR experience that explores themes of loss, healing, and connection. Through a combination of realistic 3D environments, atmospheric storytelling, and interactive mechanics, the project aims to evoke emotions and engage players in a personal journey of transformation. My Role: 3D Modeler &amp;amp; Unity&#xA;Collaborators:&#xA;Jayson Van Tram – Lead Programmer &amp;amp; Developer Man Ying Angela Lee – Visual Designer &amp;amp; Unity Built With:</description>
     </item>
   </channel>
 </rss>

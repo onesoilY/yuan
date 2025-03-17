@@ -2,48 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/yuan/categories/</loc>
+    <loc>https://onesoilY.github.io/yuan/categories/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onesoilY.github.io/yuan/categories/graphic/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onesoilY.github.io/yuan/portfolio/graphic-design-studies/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onesoilY.github.io/yuan/</loc>
+    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onesoilY.github.io/yuan/categories/game/</loc>
+    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onesoilY.github.io/yuan/portfolio/redemption/</loc>
+    <lastmod>2025-03-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://onesoilY.github.io/yuan/portfolio/beyond-the-horizon/</loc>
     <lastmod>2025-03-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/yuan/categories/game/</loc>
-    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/yuan/portfolio/vr_game/</loc>
-    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/yuan/</loc>
-    <lastmod>2025-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/yuan/portfolio/3d_animation/</loc>
+    <loc>https://onesoilY.github.io/yuan/categories/animation/</loc>
     <lastmod>2025-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/yuan/categories/animation/</loc>
+    <loc>https://onesoilY.github.io/yuan/portfolio/avril-lavignes-song/</loc>
     <lastmod>2025-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/yuan/portfolio/animation/</loc>
+    <loc>https://onesoilY.github.io/yuan/portfolio/set-sail-again/</loc>
     <lastmod>2025-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/yuan/categories/website/</loc>
+    <loc>https://onesoilY.github.io/yuan/categories/website/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/yuan/portfolio/website/</loc>
+    <loc>https://onesoilY.github.io/yuan/portfolio/sfu_website/</loc>
     <lastmod>2024-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/yuan/about/</loc>
+    <loc>https://onesoilY.github.io/yuan/about/</loc>
     <lastmod>2024-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/yuan/blog/</loc>
+    <loc>https://onesoilY.github.io/yuan/blog/</loc>
     <lastmod>2024-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/yuan/blog/first-blog/</loc>
+    <loc>https://onesoilY.github.io/yuan/blog/first-blog/</loc>
     <lastmod>2024-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/yuan/contact/</loc>
+    <loc>https://onesoilY.github.io/yuan/contact/</loc>
     <lastmod>2024-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/yuan/portfolio/</loc>
+    <loc>https://onesoilY.github.io/yuan/portfolio/</loc>
     <lastmod>2024-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/yuan/tags/</loc>
+    <loc>https://onesoilY.github.io/yuan/tags/</loc>
   </url>
 </urlset>
