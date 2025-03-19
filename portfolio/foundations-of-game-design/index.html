@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<style>
+    html {
+        height: 100vh;
+    }
+    body {
+        min-height: 100vh;
+        display: grid;
+        grid-template-rows: 1fr auto;
+    }
+    .footer {
+        grid-row-start: 2;
+        grid-row-end: 3;
+    }
+</style>
+
+<html lang="en-us"><head>
+  <meta charset="utf-8">
+  <title>Yuan Xiao</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="description" property="og:description" content="Two publishable board games">
+  <meta name="image" property="og:image" content="/">
+  <meta name="author" content="Yuan Xiao">
+  <meta name="generator" content="Hugo 0.131.0">
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="../../css/style.min.css" integrity="" media="screen">
+  
+  <link rel="stylesheet" href="../../css/syntax.min.css" integrity="" media="screen">
+
+  <script src="https://cdn.jsdelivr.net/npm/mailgo@0.9.14/dist/mailgo.min.js" defer></script>
+
+  <!--Favicon-->
+  <link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png">
+  <link rel="manifest" href="../../site.webmanifest">
+
+</head>
+<body class="portfolio">
+    <div class="wrapper"><div uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; bottom: #transparent-sticky-navbar">
+    <nav class="uk-navbar-container uk-margin" uk-navbar="mode: click;" style="padding-right: 3rem">
+        <div class="uk-navbar-right">
+            <ul class="uk-navbar-nav uk-visible@s">
+                
+                <li><a style="font-size: 18px; text-transform: none" href="../../"> Home
+                        </a></li>
+
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li><a style="font-size: 18px; text-transform: none" href="../../about">About</a></li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li class="uk-active"><a style="font-size: 18px; text-transform:none"
+                        href="../../portfolio">Portfolio</a></li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li><a style="font-size: 18px; text-transform: none" href="../../contact">Contact</a></li>
+                
+                
+            </ul>
+
+            <a class="uk-navbar-toggle uk-hidden@s" uk-toggle="target: #sidenav" uk-navbar-toggle-icon href="#"></a>
+
+        </div>
+    </nav>
+</div>
+
+<div id="sidenav" uk-offcanvas="overlay: true">
+    <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+
+        <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+            
+            <li><a style="font-size: 18px" href="https://onesoilY.github.io/yuan/"> Home </a></li>
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li><a style="font-size: 18px" href="../../about">About</a></li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li class="uk-active"><a style="font-size: 18px" href="../../portfolio">Portfolio</a></li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li><a style="font-size: 18px" href="../../contact">Contact</a></li>
+            
+            
+        </ul>
+
+    </div>
+</div>
+
+  
+
+
+
+
+
+<style>
+  p {
+    margin: 0
+  }
+
+  .people-wrap {
+    display: inline-flex;
+    margin-top: 10px;
+  }
+
+  .people-image {
+    display: block;
+    border-radius: 50%;
+     
+  }
+
+  .people {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .name {
+    margin: auto;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #000;
+    font-family: Roboto, sans-serif;
+    line-height: 1.2;
+    margin-top: 2rem;
+  }
+
+  .content img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:30px;
+  }
+
+  p { margin-bottom: 1em; }
+
+  body p:last-child { margin-bottom: 0em; }
+
+  img.skills{
+    height: 80px;
+  }
+
+  @media only screen and (min-width: 960px) {
+    .content img{max-width:60vw; max-height:60vh}
+
+  .content img{
+      max-width:60vw;
+      max-height:60vh
+  }
+  }
+  .content{
+      width: 90vw;
+      max-width: 1200px
+  }
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+</style>
+
+
+<section>
+  <div class="uk-container uk-margin-large-bottom uk-margin-medium-top">
+    <h1 class="uk-text-center uk-heading-medium">Foundations of Game Design</h1>
+    <p class="uk-text-center uk-text-lead">Two publishable board games</p>
+    <p class="uk-text-center">Published on Mar 17, 2025</p>
+    <p class="uk-text-center">Estimated reading time: 4 minutes</p>
+    
+
+    <div class="uk-child-width-1-4@m uk-child-width-1-2@s uk-text-center uk-flex-center uk-grid-large uk-margin-small-top" uk-grid>
+      
+
+    
+
+
+    
+    </div>
+
+    
+
+    <hr class="full-width">
+    
+
+    <div class="content">
+      <h2 id="projects-overview">Projects Overview</h2>
+<div style="font-size: 1.4em; color: #333; line-height: 1.8;">  
+<span style="display: block; margin: 50px;">  
+<h3 id="project-goals"><strong>Project Goals:</strong></h3>
+<ul>
+<li>
+<p><em><strong>Purr-suation</strong></em> (People Fun Board Game):
+Apply experiential and social system design to create a highly interactive game that leverages player creativity and deception as core mechanics, ensuring an engaging and socially dynamic play experience.</p>
+</li>
+<li>
+<p><em><strong>The Lost</strong></em> (Transformative Board Game):<br>
+Explore gameplay as an experiential and social system by designing a game that challenges players with ethical dilemmas and survival decisions, encouraging reflection on morality through immersive storytelling and meaningful player choices.</p>
+</li>
+</ul>
+</span>  
+<span style="display: block; margin: 50px;">
+<p><strong>My Role:</strong> Game Designer &amp; Mechanics</p>
+</span>
+<span style="display: block; margin: 50px;">
+<p><strong>Collaborators:</strong></p>
+<ul>
+<li>Natalie Kayda – Team Leader &amp; Documentation Lead</li>
+<li>Abhishek Mishra – Designer &amp; Team Support</li>
+<li>Ray Wang – Narrative Integration Lead</li>
+<li>Eason Zhang – Setup &amp; User Experience</li>
+</ul>
+</span>
+<span style="display: block; margin: 50px;">
+<p><strong>Built With:</strong></p>
+<ul>
+<li>Figma (collaborative design &amp; management)</li>
+<li>Premiere Pro (video editing)</li>
+<li>After Effect (VFX)</li>
+<li>Procreate (visual design)</li>
+<li>Tabletop Simulator (testing &amp; recording)</li>
+</ul>
+</span>
+<span style="display: block; margin: 50px;">
+<p><strong>Work Time:</strong> 4 Months (September 2024 - December 2024)</p>
+</span>
+<span style="display: block; margin: 50px;">
+<p><strong>Showcase:</strong></p>
+<div class="video-container">
+    <p style="margin-top: 0px; margin-bottom: 0px;"><strong><em>Purr-suation</em></strong> (People Fun Board Game)</p>
+    <iframe src="https://www.youtube.com/embed/i35mBRwHgIk" frameborder="0" allowfullscreen></iframe>
+    <p style="margin-top: 40px; margin-bottom: 0px;"><strong><em>The Lost</em></strong> (Transformative Board Game)</p>
+    <iframe src="https://www.youtube.com/embed/ehSjtRfIg7w" frameborder="0" allowfullscreen></iframe>
+</div>
+</span>
+</span>
+<span style="display: block; margin: 50px;">
+<p><strong>Achievement:</strong><br>
+Both <a href="https://www.sfu.ca/siat/showcase/fall-2024-project-showcase/iat-312-purr-suasion.html" style="text-decoration: underline; color: inherit;"><em>Purr-suasion</em></a> and <a href="https://www.sfu.ca/siat/showcase/fall-2024-project-showcase/iat-312-the-lost.html" style="text-decoration: underline; color: inherit;"><em>The Lost</em></a> were selected for the SFU SIAT Online Project Gallery and featured on SFU Showcase’s webpages.</p>
+</span>
+</div>
+<hr style="margin: 60px 0; border-top: 2px solid #bbb;">
+<h2 id="project-description">Project Description</h2>
+<div style="margin: 3em;">
+    <h3 style="font-size: 1.4em; color: #333; font-weight: bold;"><em>Purr-suation</em></h3>
+    <p style="font-size: 1.2em; color: #333; font-weight: 400; margin-top: 10px; text-align: justify;">A fun and competitive game featuring multiple cats as protagonists. Players take on the roles of different cats and use various strategies—especially persuasion—to win. Players must collect Cutie Points before "Grandma" comes home while interacting with each other through persuasion, competition, and interference. The player with the most Cutie Points before Grandma arrives is crowned as the cutest cat.</p>
+</div>
+<div>
+    <img src="../../images/iat312.1.png" alt="purr-suation" style="max-width: 70%; margin-left: 3em; margin-top: -30px;">         
+    <p style="font-style: italic; margin: -20px 0 40px 3em;">A vibrant and interactive game board featuring themed rooms, player movement, and dynamic in-game actions</p>
+</div>
+<div style="margin: 3em;">
+    <h3 style="font-size: 1.4em; color: #333; font-weight: bold;"><em>The Lost</em></h3>
+    <p style="font-size: 1.2em; color: #333; font-weight: 400; margin-top: 10px; text-align: justify;">A pirate-themed cooperative survival adventure game, where players must work together to maintain the ship and crew while recovering lost memories and treasures. Four players take on the roles of different crew members (Captain, Navigator, Chef, Carpenter) and navigate the mysterious seas, collecting three key treasures to unlock the final mystery. Successfully gather all three treasures while keeping the crew alive and overcoming resource shortages.</p>
+</div>
+<div>
+    <img src="../../images/iat312.3.png" alt="the lost" style="max-width: 70%; margin-left: 3em; margin-top: -30px;">         
+    <p style="font-style: italic; margin: -20px 0 40px 3em;">Players engaged in a tabletop game, managing resources, action cards, and a sea navigation map</p>
+</div>
+<hr style="margin: 60px 0; border-top: 2px solid #bbb;">
+<h2 id="purr-suation-game-design"><em>Purr-suation</em> Game Design</h2>
+<div class="timeline-container">
+    <div class="timeline-item">
+        <div class="timeline-marker"><span>1</span></div>
+        <div class="timeline-content">
+            <h3 class="timeline-title">Core Mechanics & Balance</h3>
+            <ul style="font-size: 1.2em; color: #333; font-weight: 400; text-align: justify; margin: 0px 0 40px;">
+                <li>Centered on persuasion and debate, with players vying for “Cutie Points” while moving around a board.</li>
+                <li>Dice rolls determine movement, and Item Cards let players resolve conflicts or interfere with opponents.</li>
+                <li>Conflicts require persuasion or debate to gain advantages and extra points.</li>
+                <li>The game ends when “Grandma” arrives; the player with the most Cutie Points wins.</li>
+            </ul>
+            <p style="font-size: 1.2em; color: #333; font-weight: 400; text-align: justify; margin: -20px 0 40px;">I balanced Item Card strength, adjusted point rewards from conflicts, and optimized conflict difficulty to ensure fairness and fun. I conducted multiple playtests to gather feedback and iterated on dice-based movement and persuasion mechanics to prevent frustration or runaway leads.</p>
+        </div>
+    </div>
+    <div class="timeline-item">
+        <div class="timeline-marker"><span>2</span></div>
+        <div class="timeline-content">
+            <h3 class="timeline-title">Card & Visual Design</h3>
+            <ul style="font-size: 1.2em; color: #333; font-weight: 400; text-align: justify; margin: 0px 0 40px;">
+                <li>Features Item Cards that can alter gameplay, trigger special effects, or help players defend themselves.</li>
+                <li>The overall art style is cute, cat-themed, consistent with the game’s playful narrative and board design.</li>
+            </ul>
+            <p style="font-size: 1.2em; color: #333; font-weight: 400; text-align: justify; margin: -20px 0 10px;">I designed the game logo and maintained visual coherence across the board, rulebook, and promotional materials. I also illustrated the Item Cards, defining their functionality and thematic artwork while ensuring consistency.</p>
+            <div>
+                <img src="../../images/iat312 logo.png" alt="iat312 logo" style="max-width: 100%; margin-left: 0px; box-shadow: none;">
+                <img src="../../images/iat312 item.png" alt="iat312 logo" style="max-width: 100%; margin-left: 0px; box-shadow: none;">
+                <p style="font-style: italic; margin: -20px 0 40px 10px;">Purr-suasion game logo and some Item Cards</p>
+            </div>
+        </div>
+    </div>
+</div>
+<h2 id="the-lost-game-design"><em>The Lost</em> Game Design</h2>
+<div class="timeline-container">
+    <div class="timeline-item">
+        <div class="timeline-marker"><span>1</span></div>
+        <div class="timeline-content">
+            <h3 class="timeline-title">Core Mechanics & Balance</h3>
+            <ul style="font-size: 1.2em; color: #333; font-weight: 400; text-align: justify; margin: 0px 0 40px;">
+                <li>A pirate-themed survival game focusing on three key resources: Morale, Energy, and Resources.</li>
+                <li>Players take on distinct roles (e.g., Captain, Navigator, Chef, Carpenter), each with unique skills.</li>
+                <li>The team faces various Event Cards, which may deplete resources or offer unexpected boosts, all while they explore islands to collect three treasures.</li>
+                <li>Victory requires balancing survival and gathering treasures; depletion of key resources can result in failure.</li>
+            </ul>
+            <p style="font-size: 1.2em; color: #333; font-weight: 400; text-align: justify; margin: -20px 0 40px;">I desigened and calibrated the interplay among Morale, Energy, and Resources to keep the game tense but not overly punishing, while adjusting difficulty by refining Event Card effects to ensure resource scarcity felt challenging yet fair.</p>
+        </div>
+    </div>
+    <div class="timeline-item">
+        <div class="timeline-marker"><span>2</span></div>
+        <div class="timeline-content">
+            <h3 class="timeline-title">Card & Visual Design</h3>
+            <ul style="font-size: 1.2em; color: #333; font-weight: 400; text-align: justify; margin: 0px 0 40px;">
+                <li>Incorporates Event Cards that introduce random scenarios, from fierce storms to crew squabbles, each affecting resources or morale.</li>
+                <li>The aesthetic embraces a pirate-adventure style, with illustrations reflecting a mysterious, seafaring tone.</li>
+            </ul>
+            <p style="font-size: 1.2em; color: #333; font-weight: 400; text-align: justify; margin: -20px 0 20px;">I designed and illustrated the Cards, handling both artwork and text content as they are a core part of the game's enjoyment. I also implemented adjustments, such as recalibrating Card frequencies and refining resource distribution, to ensure the game remained engaging and survivable. Additionally, I created a <a href="https://mgbai9954.wixsite.com/my-site-1" style="text-decoration: underline; color: inherit;">Wix website</a> that aligns with the game's visual style.</p>
+            <div>
+                <img src="../../images/actionfront.png" alt="actionfront" style="max-width: 100%; margin-left: 0px; box-shadow: none;">
+                <img src="../../images/Memories.png" alt="Memories" style="max-width: 80%; margin-left: 0px; box-shadow: none;">
+                <p style="font-style: italic; margin: -20px 0 40px 10px;">Board game card design and illustrations, featuring event challenges and symbolic treasures</p>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .video-container {
+        max-width: 900px;
+        aspect-ratio: 16 / 9; /* 让视频保持16:9比例 */
+    }
+
+    .video-container iframe {
+        width: 100%;
+        height: 100%;
+    }
+
+    /* 时间轴整体左对齐 */
+    .timeline-container {
+        position: relative;
+        margin-left: 0;
+        padding-left: 50px;
+        display: flex;
+        flex-direction: column;
+        gap: 60px;
+        margin-bottom: 80px;
+    }
+
+    /* 时间轴上的每个项目 */
+    .timeline-item {
+        display: flex;
+        align-items: flex-start;
+        position: relative;
+        opacity: 0;
+        transform: translateY(100px);
+        transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+    }
+
+    /* 每次进入视口时触发动画 */
+    .timeline-item.visible {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    /* 时间轴线 */
+    .timeline-container::before {
+        content: "";
+        position: absolute;
+        left: 20px;
+        top: 0;
+        width: 4px;
+        height: 100%;
+        background: linear-gradient(to bottom, #1AB69A, #66CDAA);
+        border-radius: 2px;
+    }
+
+    /* 数字编号放在时间轴上，并添加一根连接线 */
+    .timeline-marker {
+        position: absolute;
+        left: -43px; /* 让数字紧贴时间轴 */
+        background: #1AB69A;
+        color: white;
+        font-size: 1.2em;
+        font-weight: bold;
+        width: 30px;
+        height: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        z-index: 2;
+        opacity: 0;
+        transform: translateY(100px);
+        transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+        position: relative;
+    }
+
+    /* 连接线 */
+    .timeline-marker::after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 100%;
+        width: 400px; /* 线条长度，可调整 */
+        height: 2px;
+        background-color: #1AB69A;
+    }
+
+    /* 数字和内容同步动画 */
+    .timeline-item.visible .timeline-marker {
+        opacity: 1;
+        transform: translateY(0);
+    }
+
+    /* 右侧的内容框 */
+    .timeline-content {
+        width: 100%;
+    }
+
+    /* 标题样式 */
+    .timeline-title {
+        font-size: 1.4em;
+        color: #333;
+        font-weight: bold;
+        margin: 50px 0 20px;
+    }
+
+    .media-container {
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px; 
+}
+
+</style>
+<script>
+    // 监听滚动，触发时间轴动画
+    function revealTimelineItems() {
+        const items = document.querySelectorAll(".timeline-item");
+        const triggerBottom = window.innerHeight * 0.85;
+
+        items.forEach(item => {
+            const itemTop = item.getBoundingClientRect().top;
+            if (itemTop < triggerBottom) {
+                item.classList.add("visible");
+            }
+        });
+    }
+
+    // 监听页面滚动事件
+    window.addEventListener("scroll", revealTimelineItems);
+    revealTimelineItems(); // 初始检查
+</script>
+<hr style="margin: 60px 0; border-top: 2px solid #bbb;">
+<h2 id="takeaways">Takeaways</h2>
+<p style="font-size: 1.2em; color: #333; font-weight: 400; text-align: justify; margin: 10px 0 50px;">Through these projects, I deepened my understanding of integrating player experience into game mechanics. Frequent playtests helped refine conflict resolution, resource management, and difficulty balancing, ensuring each game remained engaging yet accessible. Collaboration played a key role in maintaining thematic and mechanical consistency. Working closely with teammates specializing in narrative, UX, and design, I helped align game elements to create a cohesive experience.</p>
+<p style="font-size: 1.2em; color: #333; font-weight: 400; text-align: justify; margin: 10px 0 50px;">Beyond game design, I leveraged tools like Figma for collaboration and Procreate for artwork, ensuring efficiency from concept to execution. Through these experiences, I gained a deeper understanding of how People Fun encourages interaction and humor, while Transformative Fun fosters emotional investment and moral decision-making. Merging mechanics, storytelling, and iterative design, I created two polished board games that demonstrate my ability to craft meaningful, engaging experiences.</p>
+
+    </div>
+  </div>
+  </div>
+</section>
+
+
+
+    </div>
+<footer class="footer">
+  <div class="uk-container">
+
+    
+    <div class="uk-text-center uk-margin-medium-bottom">
+      <ul class="uk-list uk-list-divider">
+        <li><a href="../../">Home</a></li>
+        <li><a href="../../about">About</a></li>
+        <li><a href="../../portfolio">Portfolio</a></li>
+        <li><a href="../../contact">Contact</a></li>
+        
+      </ul>
+    </div>
+
+
+    
+    <div class="uk-text-center uk-margin-medium-bottom">
+      
+      <p>Disclaimer: All media used in this project were provided during the courses and are for educational purposes only.</p>
+    </div>
+
+  </div>
+</footer>
+
+<!-- JS Plugins -->
+
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
+</body>
+</html>
