@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Yuan Xiao</title>
-    <link>https://onesoilY.github.io/yuan/blog/</link>
+    <link>http://localhost:1313/yuan/blog/</link>
     <description>Recent content in Blog on Yuan Xiao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://onesoilY.github.io/yuan/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/yuan/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
-      <link>https://onesoilY.github.io/yuan/blog/first-blog/</link>
+      <link>http://localhost:1313/yuan/blog/first-blog/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://onesoilY.github.io/yuan/blog/first-blog/</guid>
+      <guid>http://localhost:1313/yuan/blog/first-blog/</guid>
       <description>You can directly access my resume by clicking the icon below: Resume Overview I am a Front-End Developer and Designer with a solid foundation in integrating design, art, and technology. My resume includes:&#xA;Education: Pursuing a Bachelor of Science in Interactive Arts &amp;amp; Technology at Simon Fraser University.&#xA;Programming &amp;amp; Development Skills in HTML &amp;amp; CSS, JavaScript, Java, Python, Unity.&#xA;Graphic &amp;amp; Visual Design Skills in Illustrator, After Effect, Photoshop, Figma, Maya.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website on Yuan Xiao</title>
-    <link>https://onesoilY.github.io/yuan/categories/website/</link>
+    <link>http://localhost:1313/yuan/categories/website/</link>
     <description>Recent content in Website on Yuan Xiao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://onesoilY.github.io/yuan/categories/website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/yuan/categories/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Website Design and Develop</title>
-      <link>https://onesoilY.github.io/yuan/portfolio/sfu_website/</link>
+      <link>http://localhost:1313/yuan/portfolio/sfu_website/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://onesoilY.github.io/yuan/portfolio/sfu_website/</guid>
+      <guid>http://localhost:1313/yuan/portfolio/sfu_website/</guid>
       <description>Project Overview Project Goal:&#xA;To design and develop a visually cohesive, user-friendly, and responsive website for SFU Climate Community. Ensuring smooth navigation, accessibility, and an engaging browsing experience across desktop and mobile platforms. My Role: Web Designer &amp;amp; Developer&#xA;Built With:&#xA;Figma (initial concept design) Visual Studio Code (programming) HTML&amp;amp;CSS Work Time: 2 Months (February 2024 - April 2024)&#xA;Showcase:&#xA;Your browser does not support the video tag. Project Description A Seamless and Engaging Experience I designed and developed the SFU Climate Community website, creating a visually cohesive, user-friendly, and responsive experience across desktop and mobile platforms.</description>
     </item>
   </channel>

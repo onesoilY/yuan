@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Game,favorite on Yuan Xiao</title>
-    <link>https://onesoilY.github.io/yuan/categories/gamefavorite/</link>
+    <link>http://localhost:1313/yuan/categories/gamefavorite/</link>
     <description>Recent content in Game,favorite on Yuan Xiao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://onesoilY.github.io/yuan/categories/gamefavorite/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/yuan/categories/gamefavorite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Foundations of Game Design</title>
-      <link>https://onesoilY.github.io/yuan/portfolio/foundations-of-game-design/</link>
+      <link>http://localhost:1313/yuan/portfolio/foundations-of-game-design/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://onesoilY.github.io/yuan/portfolio/foundations-of-game-design/</guid>
+      <guid>http://localhost:1313/yuan/portfolio/foundations-of-game-design/</guid>
       <description>Projects Overview Project Goals: Purr-suation (People Fun Board Game): Apply experiential and social system design to create a highly interactive game that leverages player creativity and deception as core mechanics, ensuring an engaging and socially dynamic play experience.&#xA;The Lost (Transformative Board Game):&#xA;Explore gameplay as an experiential and social system by designing a game that challenges players with ethical dilemmas and survival decisions, encouraging reflection on morality through immersive storytelling and meaningful player choices.</description>
     </item>
     <item>
       <title>Escape</title>
-      <link>https://onesoilY.github.io/yuan/portfolio/escape/</link>
+      <link>http://localhost:1313/yuan/portfolio/escape/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://onesoilY.github.io/yuan/portfolio/escape/</guid>
+      <guid>http://localhost:1313/yuan/portfolio/escape/</guid>
       <description>Project Overview Project Goal:&#xA;Transform a self-written post-apocalyptic script titled “Redemption” into a highly interactive multiplayer board game that preserves the script’s tense atmosphere and internal conflicts. By integrating card mechanics, map design, hidden roles, and cooperative gameplay, the project enhances players’ immersion and emotional engagement. My Role: Game Designer &amp;amp; Video Editor&#xA;Collaborators:&#xA;Jiawei Shi – Document Organizer Jianting Liang – Card Designer &amp;amp; Video Editor Katrina Lai – Character &amp;amp; Map Designer Built With:</description>
     </item>
     <item>
       <title>Beyond the Horizon</title>
-      <link>https://onesoilY.github.io/yuan/portfolio/beyond-the-horizon/</link>
+      <link>http://localhost:1313/yuan/portfolio/beyond-the-horizon/</link>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://onesoilY.github.io/yuan/portfolio/beyond-the-horizon/</guid>
+      <guid>http://localhost:1313/yuan/portfolio/beyond-the-horizon/</guid>
       <description>Project Overview Project Goal:&#xA;Present a VR story about loss, emotional lows, and healing rebirth, allowing users to gain new insights or emotional resonance through immersive interaction. Through a combination of realistic 3D environments, atmospheric storytelling, and interactive mechanics, the project aims to evoke emotions and engage players in a personal journey of transformation. My Role: 3D Modeler, Unity &amp;amp; Multi-purpose Worker&#xA;Collaborators:&#xA;Jayson Van Tram – Project Leader &amp;amp; Unity Man Ying Angela Lee – Visual Designer &amp;amp; Unity Built With:</description>
     </item>
   </channel>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Yuan Xiao</title>
-    <link>https://onesoilY.github.io/yuan/categories/</link>
+    <link>http://localhost:1313/yuan/categories/</link>
     <description>Recent content in Categories on Yuan Xiao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://onesoilY.github.io/yuan/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/yuan/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game,favorite</title>
-      <link>https://onesoilY.github.io/yuan/categories/gamefavorite/</link>
+      <link>http://localhost:1313/yuan/categories/gamefavorite/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://onesoilY.github.io/yuan/categories/gamefavorite/</guid>
+      <guid>http://localhost:1313/yuan/categories/gamefavorite/</guid>
       <description></description>
     </item>
     <item>
       <title>Graphic</title>
-      <link>https://onesoilY.github.io/yuan/categories/graphic/</link>
+      <link>http://localhost:1313/yuan/categories/graphic/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://onesoilY.github.io/yuan/categories/graphic/</guid>
+      <guid>http://localhost:1313/yuan/categories/graphic/</guid>
       <description></description>
     </item>
     <item>
       <title>Animation</title>
-      <link>https://onesoilY.github.io/yuan/categories/animation/</link>
+      <link>http://localhost:1313/yuan/categories/animation/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://onesoilY.github.io/yuan/categories/animation/</guid>
+      <guid>http://localhost:1313/yuan/categories/animation/</guid>
       <description></description>
     </item>
     <item>
       <title>Animation,favorite</title>
-      <link>https://onesoilY.github.io/yuan/categories/animationfavorite/</link>
+      <link>http://localhost:1313/yuan/categories/animationfavorite/</link>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://onesoilY.github.io/yuan/categories/animationfavorite/</guid>
+      <guid>http://localhost:1313/yuan/categories/animationfavorite/</guid>
       <description></description>
     </item>
     <item>
       <title>Website</title>
-      <link>https://onesoilY.github.io/yuan/categories/website/</link>
+      <link>http://localhost:1313/yuan/categories/website/</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://onesoilY.github.io/yuan/categories/website/</guid>
+      <guid>http://localhost:1313/yuan/categories/website/</guid>
       <description></description>
     </item>
   </channel>

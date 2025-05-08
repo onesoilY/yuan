@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Yuan Xiao</title>
-    <link>https://onesoilY.github.io/yuan/about/</link>
+    <link>http://localhost:1313/yuan/about/</link>
     <description>Recent content in About on Yuan Xiao</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://onesoilY.github.io/yuan/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/yuan/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
